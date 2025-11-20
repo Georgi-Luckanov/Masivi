@@ -1,0 +1,14 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\bin\Debug\net9.0\Masivi.exe
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\bin\Debug\net9.0\Masivi.deps.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\bin\Debug\net9.0\Masivi.runtimeconfig.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\bin\Debug\net9.0\Masivi.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\bin\Debug\net9.0\Masivi.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\refint\Masivi.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\ref\Masivi.dll
