@@ -12,3 +12,4 @@ C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug
 C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.pdb
 C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.genruntimeconfig.cache
 C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\ref\Masivi.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi\Masivi\obj\Debug\net9.0\Masivi.sourcelink.json

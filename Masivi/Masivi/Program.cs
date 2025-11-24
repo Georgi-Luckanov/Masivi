@@ -6,6 +6,8 @@ int min = int.MaxValue;
 int a;
 ivo[0] = int.Parse(Console.ReadLine());
 int sum = 0;
+int search = int.Parse(Console.ReadLine());
+bool isFound = false;
 for (int i = 0; i < ivo.Length; i++)
 {
     ivo[i] = int.Parse(Console.ReadLine());
@@ -18,6 +20,15 @@ for (int i = 0; i < ivo.Length; i++)
     {
         min = ivo[i];
     }
+    if (search ==  ivo[i])
+    {
+        isFound = true;
+    }
 }
+if (!isFound)
+{
+    Console.WriteLine("Number found");
+}
+Console.WriteLine(sum / ivo.Length);
 Console.WriteLine(sum);
 Console.WriteLine(max + " " + min);
