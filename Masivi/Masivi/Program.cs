@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+int size = int.Parse(Console.ReadLine());
+int[] array = new int [size];
 int[]ivo = new int[7];
 int max = int.MinValue;
 int min = int.MaxValue;
