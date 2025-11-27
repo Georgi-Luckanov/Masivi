@@ -34,3 +34,13 @@ if (!isFound)
 Console.WriteLine(sum / ivo.Length);
 Console.WriteLine(sum);
 Console.WriteLine(max + " " + min);
+for (int i = 1; i < ivo.Length; i++)
+{
+    ivo[i - 1] = ivo[i];
+}
+ivo[ivo.Length - 1] = ivo[0];
+Console.WriteLine("Rotated array;");
+for (int i = 0; i < ivo.Length;i++)
+{
+    Console.WriteLine(ivo[i] + ", ");
+}
