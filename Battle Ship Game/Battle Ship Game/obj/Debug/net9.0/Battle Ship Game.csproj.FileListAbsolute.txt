@@ -1,0 +1,15 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\bin\Debug\net9.0\Battle Ship Game.exe
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\bin\Debug\net9.0\Battle Ship Game.deps.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\bin\Debug\net9.0\Battle Ship Game.runtimeconfig.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\bin\Debug\net9.0\Battle Ship Game.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\bin\Debug\net9.0\Battle Ship Game.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.sourcelink.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\refint\Battle Ship Game.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\Battle Ship Game.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Battle Ship Game\Battle Ship Game\obj\Debug\net9.0\ref\Battle Ship Game.dll
