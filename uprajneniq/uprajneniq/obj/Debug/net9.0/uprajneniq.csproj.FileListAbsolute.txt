@@ -1,0 +1,15 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\bin\Debug\net9.0\uprajneniq.exe
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\bin\Debug\net9.0\uprajneniq.deps.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\bin\Debug\net9.0\uprajneniq.runtimeconfig.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\bin\Debug\net9.0\uprajneniq.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\bin\Debug\net9.0\uprajneniq.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.sourcelink.json
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\refint\uprajneniq.dll
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.pdb
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\uprajneniq.genruntimeconfig.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\uprajneniq\uprajneniq\obj\Debug\net9.0\ref\uprajneniq.dll
