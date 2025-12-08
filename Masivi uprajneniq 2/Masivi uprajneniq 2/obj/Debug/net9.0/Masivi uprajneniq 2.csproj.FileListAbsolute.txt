@@ -1,0 +1,5 @@
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi uprajneniq 2\Masivi uprajneniq 2\obj\Debug\net9.0\Masivi uprajneniq 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi uprajneniq 2\Masivi uprajneniq 2\obj\Debug\net9.0\Masivi uprajneniq 2.AssemblyInfoInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi uprajneniq 2\Masivi uprajneniq 2\obj\Debug\net9.0\Masivi uprajneniq 2.AssemblyInfo.cs
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi uprajneniq 2\Masivi uprajneniq 2\obj\Debug\net9.0\Masivi uprajneniq 2.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\OneDrive\Документи\GitHub\Masivi\Masivi uprajneniq 2\Masivi uprajneniq 2\obj\Debug\net9.0\Masivi uprajneniq 2.sourcelink.json
